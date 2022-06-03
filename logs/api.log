@@ -1,0 +1,9 @@
+[2022-05-31 17:52:52] [logger] [INFO] > Запрос /api/posts/1
+[2022-05-31 19:38:56] [logger] [INFO] > Запрос /api/posts/
+[2022-06-01 11:43:43] [logger] [INFO] > Запрос /api/posts/
+[2022-06-01 11:43:47] [logger] [INFO] > Запрос /api/posts/1
+[2022-06-01 11:43:52] [logger] [INFO] > Запрос /api/posts/20
+[2022-06-01 11:44:08] [logger] [INFO] > Запрос /api/posts/2
+[2022-06-01 23:41:58] [logger] [INFO] > Запрос /api/posts/
+[2022-06-01 23:41:58] [logger] [INFO] > Запрос /api/posts/1
+[2022-06-01 23:41:58] [logger] [INFO] > Запрос /api/posts/1
