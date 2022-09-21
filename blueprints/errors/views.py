@@ -1,6 +1,6 @@
 from flask import Blueprint, render_template, request, redirect
 from utils import *
-from config import *
+from config1 import *
 
 error_blueprint = Blueprint('error_blueprint', __name__, template_folder="templates")
 

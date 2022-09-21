@@ -1,4 +1,4 @@
-from config import *
+from config1 import *
 import json
 
 
